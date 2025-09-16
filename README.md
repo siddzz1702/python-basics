@@ -6,8 +6,14 @@ This repo documents my **daily progress** in learning Python, AI, and related te
 ---
 
 ## 📅 Daily Log
-- **Day 1 (16th Aug 2025):** Created my first Python script - *Hello AI World!*  
-- *(More updates will follow as I progress...)*
+- **Day 1 (16th Aug 2025):** Created my first Python script - *Hello AI World!*
+- **Day 2 (17th Aug 2025)**
+- Learned about Python variables, data types, and basic operators.  
+- Practiced with simple input/output programs:  
+  - **Age Calculator** (`day2_age_calculator.py`) → asks user’s age and returns birth year.  
+  - **Temperature Converter** (`day2_temp_converter.py`) → Celsius ↔ Fahrenheit.    
+- Maths Progress: Completed **Vectors** → addition, subtraction, dot product, magnitude, unit vector.  
+- (Extra) Added Python implementation of vector operations: `day2_vectors.py` - *(More updates will follow as I progress...)*
 
 ---
 
