@@ -1,0 +1,16 @@
+# Day 2: Age Calculator
+# This program asks the user for their age and calculates their birth year.
+
+from datetime import datetime
+
+def calculate_birth_year(age: int) -> int:
+    current_year = datetime.now().year
+    return current_year - age
+
+if __name__ == "__main__":
+    try:
+        age = int(input("Enter your age: "))
+        birth_year = calculate_birth_year(age)
+        print(f"You were born in {birth_year}.")
+    except ValueError:
+        print("Please enter a valid number for age.")
