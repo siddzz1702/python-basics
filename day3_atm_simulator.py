@@ -1,11 +1,5 @@
 # Day 3 Project: Simple ATM Simulator
-def atm_pin_checker():
-    correct_pin = "4961"
-    pin = input("Enter your 4-digit PIN: ")
-    if pin == correct_pin:
-        print("✅ Access Granted! Welcome to your ATM account.")
-    else:
-        print("❌ Incorrect PIN. Try again.")balance = 1000.0  # starting balance
+# starting balance
 
 print("=== Welcome to Python Bank ATM ===")
 print("1. Check Balance")
