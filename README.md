@@ -19,7 +19,29 @@ This repo documents my **daily progress** in learning Python, AI, and related te
 - Practiced decision-making with:  
   - **Overtime Pay Calculator** (`day3_overtime_pay.py`) → regular + 1.5x overtime pay.  
   - **Grading System** (`day3_grading_system.py`) → assigns grades based on score.  
-- Mini Project:  - *(More updates will follow as I progress...)*
+- Mini Project:
+-ATM Simulator (Python)
+**Overview**
+
+This is a simple ATM Simulator built in Python using if-else statements and user input.
+It allows users to:
+Perform basic banking operations like:
+
+✅ Check Balance
+
+✅ Deposit Money
+
+✅ Withdraw Money
+
+✅ Exit
+
+This project helps practice conditional logic, loops, and user input handling in Python.
+**Future Improvements**
+1)Allow multiple user accounts.
+2)Take PIN
+3)Mask PIN input (hide while typing).
+4)Save transaction history.
+5)Store balance in a file or database. *(More updates will follow as I progress...)*
 
 ---
 
