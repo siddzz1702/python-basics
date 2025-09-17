@@ -13,7 +13,13 @@ This repo documents my **daily progress** in learning Python, AI, and related te
   - **Age Calculator** (`day2_age_calculator.py`) → asks user’s age and returns birth year.  
   - **Temperature Converter** (`day2_temp_converter.py`) → Celsius ↔ Fahrenheit.    
 - Maths Progress: Completed **Vectors** → addition, subtraction, dot product, magnitude, unit vector.  
-- (Extra) Added Python implementation of vector operations: `day2_vectors.py` - *(More updates will follow as I progress...)*
+- (Extra) Added Python implementation of vector operations: `day2_vectors.py`-
+-  **Day 3 (18th Aug 2025)**
+- Learned `if`, `elif`, `else` statements.  
+- Practiced decision-making with:  
+  - **Overtime Pay Calculator** (`day3_overtime_pay.py`) → regular + 1.5x overtime pay.  
+  - **Grading System** (`day3_grading_system.py`) → assigns grades based on score.  
+- Mini Project:  - *(More updates will follow as I progress...)*
 
 ---
 
