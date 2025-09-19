@@ -41,7 +41,22 @@ This project helps practice conditional logic, loops, and user input handling in
 2)Take PIN
 3)Mask PIN input (hide while typing).
 4)Save transaction history.
-5)Store balance in a file or database. *(More updates will follow as I progress...)*
+5)Store balance in a file or database. 
+**Day 4(19 August 2025)**
+**This project combines multiple small Python practice programs into a single menu-driven application.**
+Features:
+1)Print Numbers (1–10)
+2)Prints numbers using both while and for loops.
+3)Helps understand repetition and iteration.
+4)Multiplication Table
+5)Prints the multiplication table of any number.
+6)Reinforces use of for loop and arithmetic.
+7)Sum & Factorial of a Number
+8)Calculates sum of first N natural numbers.
+9)Computes factorial of N.
+10)Demonstrates accumulation patterns in loops.
+11)Exit Option
+**More updates will follow as I progress...)**
 
 ---
 
