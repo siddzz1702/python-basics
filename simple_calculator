@@ -1,0 +1,27 @@
+# Simple Calculator
+while True:
+    print("\n--- Simple Calculator ---")
+    print("Enter 'done' to exit")
+    x = input("Enter first number: ")
+    if x.lower() == "done":
+        break
+    y = input("Enter second number: ")
+    if y.lower() == "done":
+        break
+    op = input("Enter operation (+, -, *, /): ")
+
+    try:
+        x = float(x)
+        y = float(y)
+        if op == "+":
+            print(f"Result: {x + y}")
+        elif op == "-":
+            print(f"Result: {x - y}")
+        elif op == "*":
+            print(f"Result: {x * y}")
+        elif op == "/":
+            print(f"Result: {x / y}")
+        else:
+            print("Invalid operation.")
+    except:
+        print("Invalid input, please enter numbers.")
