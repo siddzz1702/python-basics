@@ -5,9 +5,9 @@ These exercises reinforce my understanding of **loops, conditionals, functions, 
 
 ---
 
-## 📂 Programs
+##Programs
 
-### 1. Even / Odd Number Checker
+###  1. Even / Odd Number Checker
 - Prompts the user for integers.
 - Identifies whether the number is **even or odd**.
 - Handles invalid input gracefully.
@@ -25,12 +25,12 @@ These exercises reinforce my understanding of **loops, conditionals, functions, 
 
 ---
 
-## 🧮 Math Progress
+##  Math Progress
 Alongside Python, I am also revising **matrices** in mathematics (linear algebra basics), which is important for machine learning and AI.
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 - Start the **Python Data Structures** course (Coursera).
 - Continue adding mini-projects (ATM Simulator, Password Manager, etc.).
 - Push progress to **GitHub** and share updates fortnightly on **LinkedIn**.
