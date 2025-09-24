@@ -1,0 +1,36 @@
+# Python Practice Programs - After Completing "Programming for Everybody"
+
+This repository contains practice codes I worked on after completing the **Programming for Everybody (Getting Started with Python)** course on Coursera.  
+These exercises reinforce my understanding of **loops, conditionals, functions, and error handling**.
+
+---
+
+## 📂 Programs
+
+### 1. Even / Odd Number Checker
+- Prompts the user for integers.
+- Identifies whether the number is **even or odd**.
+- Handles invalid input gracefully.
+
+### 2. Simple Calculator
+- Takes two numbers and an operation (`+`, `-`, `*`, `/`).
+- Performs the calculation and prints the result.
+- Handles invalid numbers and operations using `try/except`.
+
+### 3. Guess the Number Game
+- Picks a random number between 1 and 20.
+- The user keeps guessing until they find the number.
+- Provides feedback ("too high", "too low") for each guess.
+- Ends when the correct guess is made or the user types `done`.
+
+---
+
+## 🧮 Math Progress
+Alongside Python, I am also revising **matrices** in mathematics (linear algebra basics), which is important for machine learning and AI.
+
+---
+
+## 🚀 Next Steps
+- Start the **Python Data Structures** course (Coursera).
+- Continue adding mini-projects (ATM Simulator, Password Manager, etc.).
+- Push progress to **GitHub** and share updates fortnightly on **LinkedIn**.
